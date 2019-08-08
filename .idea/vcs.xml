@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-Pay/spring-boot-pay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Springboot-Jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Springboot-Jpa/resource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/spring-boot-all" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/springBoot-study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learngit" vcs="Git" />
+  </component>
+</project>
